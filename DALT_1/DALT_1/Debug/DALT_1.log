@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\BaoCao\New folder\DALT_1\DALT_1\Conditional.h(395,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\BaoCao\New folder\DALT_1\DALT_1\Conditional.h(395,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  DALT_1.vcxproj -> E:\BaoCao\New folder\DALT_1\Debug\DALT_1.exe
